@@ -5,9 +5,8 @@ package google.collections;
  */
 public class SimpleTest {
 
-    public void test() {
-
-
+    public void newTest() {
+        
     }
 
 }
